@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-24">
       <Boxes />
-      <h1 className="text-7xl font-bold z-10 mb-10">Task a doodle</h1>
+      <h1 className="text-7xl font-bold z-10 mb-10">Task a Doodle</h1>
       <h2 className="text-5xl font-bold z-10 bg-gradient-to-r from-blue-300 to-orange-400 text-transparent bg-clip-text mb-16">
         The best place for working with co-workers
       </h2>
